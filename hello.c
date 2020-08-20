@@ -11,6 +11,9 @@
      
      printf("Joel Bargen!\n");
      
+     printf("Noah Zetocha\n");
+     pritnf("Non-degree\n");
+  
      return 0;
      
  }
